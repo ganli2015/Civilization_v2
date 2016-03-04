@@ -1,0 +1,7 @@
+E:\Civilization_v2\Messages\bin\Debug\Messages.dll
+E:\Civilization_v2\Messages\bin\Debug\Messages.pdb
+E:\Civilization_v2\Messages\bin\Debug\GameEntity.dll
+E:\Civilization_v2\Messages\bin\Debug\GameEntity.pdb
+E:\Civilization_v2\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+E:\Civilization_v2\Messages\obj\Debug\Messages.dll
+E:\Civilization_v2\Messages\obj\Debug\Messages.pdb

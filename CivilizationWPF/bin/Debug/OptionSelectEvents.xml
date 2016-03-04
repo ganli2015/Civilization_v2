@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events>
+  <Event id="0">
+    <Desc>以哪种方式获取食物？</Desc>
+    <Option>
+      <val>种田</val>
+      <val>打猎</val>
+    </Option>
+  </Event>
+  <Event id="1">
+    <Desc>碰到了巨大的猎物，怎么办？</Desc>
+    <Option>
+      <val>战斗</val>
+      <val>逃跑</val>
+    </Option>
+  </Event>
+</Events>
